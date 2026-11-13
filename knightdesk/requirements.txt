@@ -1,0 +1,5 @@
+PySide6
+psutil
+tzdata
+winrt-Windows.Media.Control==4!10.0.28000.2957; sys_platform == "win32"
+winrt-Windows.Storage.Streams==4!10.0.28000.2957; sys_platform == "win32"
